@@ -30,8 +30,8 @@ class VirtualConnectome:
 	self.G = 0.5
 
 	# Connectivity data
-	self.connectivity_filename = 'AY_20111004/AY_20111004_SCcap_large.txt'
-	self.regions_filename = 'AY_20111004/AY_20111004_SCinputreg_large.txt'
+	self.connectivity_filename = 'connectivity_sample.txt'
+	self.regions_filename = 'regions_sample.txt'
         '''
         All neurons should have the same homoeostatic rules.
         We want the excitatory populations to fire around 3.06Hz
